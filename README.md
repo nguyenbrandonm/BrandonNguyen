@@ -1,13 +1,11 @@
 # Summary
 👋 Hey there, I’m Brandon Nguyen
 
-I’m a Cybersecurity Professional and U.S. Navy Veteran with hands-on experience testing, securing, and maintaining mission-critical command and control infrastructure that supports offensive missile operations.
+I’m a U.S. Navy veteran and cybersecurity professional focused on application security. I work with dynamic testing tools daily, like Burp Suite, to identify and validate vulnerabilities in web and mobile applications while helping strengthen secure development practices.
 
-I’m skilled in web application and infrastructure vulnerability assessment, secure configuration, and system hardening across both Linux and Windows environments.
+My background includes securing and administering Linux and Windows systems that supported mission-critical operations. I hold multiple industry certifications including GWAPT, GCIH, and PNPT, and maintain an active Secret clearance.
 
-I hold multiple industry certifications including GWAPT, GCIH, and PNPT, along with an active Secret clearance. My disciplined, detail-oriented mindset shaped by military service drives my approach to application security and risk mitigation.
-
-I'm always looking to learn and improve my skills. I enjoy building and breaking systems the right way!
+I enjoy building and breaking systems the right way, learning new tools, and continually improving my technical skill set through hands-on testing and real-world scenarios.
 # Key Skills:
 - System and network security: patching, hardening, access control, and DoD baseline compliance
 
