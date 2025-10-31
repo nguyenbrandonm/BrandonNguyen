@@ -32,6 +32,4 @@ I'm always looking to learn and improve my skills. I enjoy building and breaking
 ### Cyber Projects / Learning Platforms
 - External/Internal Active Directory Attack Lab
 - AppSec Testing Lab
-- YouTube Channel
 - WordPress Portfolio Website
-- Pwned 11 Hack The Box machines and mastered 121 rooms on TryHackMe
